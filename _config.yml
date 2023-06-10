@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Data Science Notes & Projects"
+author: "Chau Tran"
+description: "Lifelong Learning"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,13 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: Home}
+  - {file: "README.md", title: Read Me First}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:gotbutchi39@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/gotbutchi"}
+  - {title: Linkedin, icon: rss, url: "https://www.linkedin.com/in/chau-tran-ta-bich/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
